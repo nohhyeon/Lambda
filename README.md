@@ -1,2 +1,2 @@
-# Lamdba
+# Lambda
 Springboot-Lambda
